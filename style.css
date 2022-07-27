@@ -1,0 +1,201 @@
+body
+{
+    width: 50%;
+    margin: auto;
+    margin-bottom:20px ;
+}
+nav
+{
+    margin-bottom: 29px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.locus ,ul
+{
+    display:flex;
+}
+.locus img
+{
+    height: 20px;
+    margin-top: 17px;
+}
+.locus
+{
+    height: 33px;
+    color: #58A9A5;
+;
+}
+a
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: gray;
+    padding: 8px;
+}
+#sign
+{
+    background-color: #58A9A5;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 17px;
+    height: 20px;
+    padding: 10px 35px 20px 35px;
+    border-color: white;
+}
+ .body #left
+ {
+    width: 46%;
+ }
+ .body
+ {
+    display: flex;
+    width: 100%;
+    margin-bottom: 40px;
+  justify-content: space-between;  
+ }
+ .body img
+ {
+    width: 400px;
+    height: 300px;
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+    background-size: 400px 300px;
+ }
+ #lets
+ {
+    background-color: #58A9A5;
+    padding: 7px;
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    border-color: wheat;
+ }
+ .page2
+ {
+    width: 34%;
+    margin: auto;
+    text-align: center;
+ }
+ .page2 h5
+ {
+color: grey;
+text-align: center;
+margin-top:-8px;
+    }
+    .page2 hr
+    {
+        width: 55px;
+        color:aqua;
+        
+    }
+    .howitswork
+    {
+        width: 100%;
+        display: flex;
+        margin-bottom: 50px;
+    }
+    .howitswork img
+    {
+        width: 70%;
+    }
+    .howitswork #txt
+    {
+        background-color:#58A9A5;
+        padding: 20px;
+    }
+    .mission 
+    {
+        height: 300px;
+        display: flex;
+        margin-bottom: 40px;
+    }
+    .mission img
+{
+    height: 300px;
+}
+.mission #txt
+{
+    width: 35%;
+    padding: 0px 40px 40px 40px;
+}
+.living
+{
+    width: 30%;
+}
+.living img
+{
+    width: 100%;
+}
+.project
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#tes
+{
+text-align: center;
+margin-bottom: 40px;
+}
+.tesmo
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+#p1
+{
+    width: 111px;
+    height: 121px;
+}
+#p2
+{
+    width: 130px;
+    height: 90px;
+}
+#p3
+{
+    margin-top:30px;
+    width: 160px;
+    height: 30px;
+}
+#p4
+{
+    width: 140px;
+    height: 98px;
+}
+.black
+{
+display: flex;
+}
+.black img
+{
+    width: 30%;
+    height: 320px;
+}
+.black .right
+{
+    background-image: url(./images/Rectangle\ 19.png);
+    padding: 35px;
+}
+.headd
+{
+    display: flex;
+    justify-content: space-between;
+}
+#f1 h1
+{
+    width: 10%;
+    height: 15px;
+}
+#f2 h1
+{
+    width: 20%;
+height: 15px;}
+#f3 h1
+{
+    width: 30%;
+height: 15px;}
